@@ -1,6 +1,12 @@
+<p align="center">
+  <img width="179" src="https://raw.githubusercontent.com/Amatos00/challengestocksports/main/login/assets/logo-makerclub.png">
+</p>
+
+---
+
 # Sobre:
 
-Foi desnvolvido o projeto **MakerClub**  para login de usuários. Esse login não se conecta com nenhuma banco de dados e não faz nenhuma autentição, objetivo, é apenas desenvolver técnicas para melhor expência visual com o usuário.
+Foi desenvolvido o projeto **MakerClub**  para login de usuários. Esse login não se conecta com nenhuma banco de dados e não faz nenhuma autentição, objetivo, é apenas desenvolver técnicas para melhor experiência visual com o usuário.
 
 ---
 
