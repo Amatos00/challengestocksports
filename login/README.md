@@ -6,7 +6,7 @@
 
 # Sobre:
 
-Foi desenvolvido o projeto **MakerClub**  para login de usuários. Esse login não se conecta com nenhuma banco de dados e não faz nenhuma autentição, objetivo, é apenas desenvolver técnicas para melhor experiência visual com o usuário.
+Foi desenvolvido o projeto **MakerClub**  para login de usuários. Esse login não se conecta com nenhuma banco de dados e não faz nenhuma autenticação, objetivo, é apenas desenvolver técnicas para melhor experiência visual com o usuário.
 
 ---
 
